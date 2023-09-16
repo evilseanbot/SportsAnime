@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: df7f001ea2a418e41a5982f46fe78e8a, type: 3}
-  m_Name: Punch
+  m_Name: Kick
   m_EditorClassIdentifier: 
   title: 
-  anim: {fileID: 7400000, guid: 8b6ca66cf21170749b7c0644ee77cc39, type: 3}
-  animQuality: 3
+  anim: {fileID: 7400000, guid: 82ff370070ffcb846a647642afec9429, type: 3}
+  animQuality: 4
   hasFightingStyle: 1
-  isBoxingMove: 1
+  isBoxingMove: 0
   isKickboxingMove: 1
   isStreetfightingMove: 1
   isGendered: 0
@@ -26,9 +26,9 @@ MonoBehaviour:
   isMasc: 0
   isHyperMasc: 0
   isStrike: 1
-  strikeMinDistance: 0
-  strikeMaxDistance: 0.5
+  strikeMinDistance: 0.5
+  strikeMaxDistance: 1.5
   strikeSide: 2
-  strikePart: 3
+  strikePart: 8
   strikeUsesWeapon: 0
-  strikeTimeToExtension: 0.5
+  strikeTimeToExtension: 0.75

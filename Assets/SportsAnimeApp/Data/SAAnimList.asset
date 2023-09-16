@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   anims:
   - {fileID: 11400000, guid: 9e61f018a116dce45a18246d7d0646c9, type: 2}
+  - {fileID: 11400000, guid: 7d02117d442e2104e89dce61821c5c72, type: 2}
